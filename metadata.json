@@ -1,0 +1,6 @@
+{
+  "name": "القرآن الكريم",
+  "description": "تطبيق القرآن الكريم الشامل للقراءة والاستماع بأصوات مشاهير القراء مع البحث والعلامات المرجعية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
